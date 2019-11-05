@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpAnalysisConfiguration">
+    <unchecked_exceptions>
+      <fqn value="\Error" />
+      <fqn value="\Exception" />
+      <fqn value="\LogicException" />
+      <fqn value="\RuntimeException" />
+    </unchecked_exceptions>
+  </component>
+</project>

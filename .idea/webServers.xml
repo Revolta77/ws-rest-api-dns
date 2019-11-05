@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0ba51dd3-647f-40e6-b355-4dfb6742c97b" name="ws" url="http://ws.clashofclanscz.sk">
+        <fileTransfer host="153246.w46.wedos.net" port="21" rootFolder="/www/subdom/ws">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
