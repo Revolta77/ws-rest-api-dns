@@ -1,0 +1,5 @@
+#Configuration subdomain_path
+configuration.php
+index.php
+function.php
+class/connection.php
